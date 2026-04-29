@@ -32,7 +32,6 @@
 - [Структура проекта](#структура-проекта)
 - [Документация](#документация)
 - [Безопасность репозитория](#безопасность-репозитория)
-- [GitHub карточка проекта](#github-карточка-проекта)
 
 ## О проекте
 
@@ -151,13 +150,3 @@ cp .env.example .env
 - `.env` и любые секреты;
 - дампы БД (`*.sql`, `*.sql.gz`);
 - архивы бэкапов (`*.tar.gz`, `*.zip`, `*.7z`).
-
-## GitHub карточка проекта
-
-**Description:**
-
-`Diploma fullstack project: photo studio website with admin panel on Laravel (PHP, MySQL, Blade, JavaScript).`
-
-**Topics:**
-
-`laravel`, `php`, `mysql`, `mariadb`, `blade`, `vite`, `javascript`, `mvc`, `portfolio`, `diploma-project`
