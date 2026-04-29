@@ -44,6 +44,7 @@
 ## Скриншоты реализованного сайта
 
 ### Публичная часть
+
 ![Главная](docs/home.jpg)
 ![Услуги](docs/services.jpg)
 ![Галерея](docs/gallery.jpg)
@@ -51,6 +52,7 @@
 ![Контакты и форма заявки](docs/contacts.png)
 
 ### Административная панель
+
 ![Дашборд](docs/admin-dashboard.png)
 ![Заявки](docs/admin-orders.png)
 ![Услуги](docs/admin-services.png)
