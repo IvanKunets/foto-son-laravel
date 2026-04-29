@@ -2,7 +2,7 @@
   <img src="public/images/logo.png" alt="Фото-сон логотип" width="140">
 </p>
 
-<h1 align="center">Фото-сон — дипломный fullstack-проект фотосалона</h1>
+<h1 align="center">Дипломный fullstack-проект</h1>
 
 <p align="center">
   <code>PHP 8.3+</code> <code>Laravel 13</code> <code>MySQL/MariaDB</code> <code>Blade</code> <code>Vite</code> <code>JavaScript</code>
